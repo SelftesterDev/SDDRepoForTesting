@@ -1,0 +1,4 @@
+storedValues:
+- key: variableName
+  value: new variable
+  type: TEXT
