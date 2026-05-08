@@ -1,0 +1,19 @@
+variables:
+- name: Text
+  type: TEXT
+groups:
+- id: 69fff652-8ad4-4820-9f50-31744dea42a0
+  name: Row 1
+  values:
+  - variable: Text
+    value: Test1
+    type: TEXT
+    pathOrValue: Test1
+- id: 80dc273d-16a7-496a-9144-fb8ca20743e6
+  name: Row 2
+  values:
+  - variable: Text
+    value: Test2
+    type: TEXT
+    pathOrValue: Test2
+applicationId: kRd5TmpWeKitEMuHq
